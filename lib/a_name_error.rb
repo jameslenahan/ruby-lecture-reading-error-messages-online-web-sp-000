@@ -1,3 +1,3 @@
 "hello world"
 
-putshello_world
+puts hello_world
